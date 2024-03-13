@@ -24,6 +24,7 @@ Employee
   - updated_at (TIMESTAMP)
   - department_id (INTEGER) 
 
+# Instructions
 - Create GitHub repository (acme_hr_directory). Use the guided practice as a reference.
 - Create the departments and employees tables. 
 - Seed the tables with some data. 
